@@ -1,1 +1,1 @@
-# Kaggle-Competitions
+# Kaggle Competitions
